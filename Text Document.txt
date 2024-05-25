@@ -1,3 +1,8 @@
 ------- Video Time Stamp
-
+ -> 19:00
 ------- Imp Points
+ -> Run Project - npm dev run
+ -> Github Link for Project - https://github.com/Maclinz/todoapp_fullstack/tree/master
+ -> Live Link - https://normal-swine-6.accounts.dev/sign-in?redirect_url=https%3A%2F%2Ftodoapp-fullstack-khaki.vercel.app%2F
+------- Last File 
+ -> added themes.js
